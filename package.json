@@ -1,7 +1,7 @@
 {
   "name": "salvo-public-guard",
   "version": "0.0.1",
-  "description": "Salvo Guard Bot",
+  "description": "Diexgif Guard Bot",
   "main": "salvoguard.js",
   "scripts": {
     "start": "node salvoguard.js"
